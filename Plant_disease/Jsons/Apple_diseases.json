@@ -1,0 +1,41 @@
+{
+  "Apple___Black_rot": {
+    "displayName": "Black Rot",
+    "cause": "Fungus: Botryosphaeria obtusa",
+    "symptoms": "Frogeye leaf spots (small brown circles with purple margins), sunken cankers on limbs, and firm, black decaying rot on the fruit.",
+    "treatment": [
+      "Prune out dead wood, infected branches, and remove mummified fruit during winter dormancy",
+      "Apply protective fungicides such as captan or thiophanate-methyl from silver tip through harvest"
+    ],
+    "prevention": "Burn or bury pruned debris to destroy spores, protect trees from physical wounds, and maintain optimal tree vigor."
+  },
+  "Apple___healthy": {
+    "displayName": "Healthy",
+    "cause": "N/A",
+    "symptoms": "Leaves are crisp and consistently green. Fruit skin is smooth and free of lesions or dark spots.",
+    "treatment": [
+      "No treatment needed"
+    ],
+    "prevention": "Maintain scheduled pruning, regular watering, and seasonal nutrient management."
+  },
+  "Apple___Apple_scab": {
+    "displayName": "Apple Scab",
+    "cause": "Fungus: Venturia inaequalis",
+    "symptoms": "Velvety, olive-green to brown spots on leaves that turn black and puckered; corky, brown, scabby lesions on the fruit skin.",
+    "treatment": [
+      "Apply lime-sulfur or copper fungicides in early spring during the green tip stage",
+      "Rake and destroy fallen leaves in autumn to eliminate overwintering spores"
+    ],
+    "prevention": "Plant scab-resistant apple cultivars and prune the canopy aggressively to maximize sunlight and airflow."
+  },
+  "Apple___Cedar_apple_rust": {
+    "displayName": "Cedar Apple Rust",
+    "cause": "Fungus: Gymnosporangium juniperi-virginianae",
+    "symptoms": "Bright, striking orange or yellow spots on the upper leaf surface, with tiny tube-like structures releasing spores on the leaf underside.",
+    "treatment": [
+      "Apply systemic fungicides containing myclobutanil or mancozeb as buds begin to open in spring",
+      "Hand-pick and destroy orange, gelatinous galls found on nearby juniper/cedar trees"
+    ],
+    "prevention": "Avoid planting apple trees within several hundred yards of eastern red cedars or ornamental junipers."
+  }
+}

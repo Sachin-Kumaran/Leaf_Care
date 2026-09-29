@@ -1,0 +1,101 @@
+{
+  "Tomato___healthy": {
+    "displayName": "Healthy",
+    "cause": "N/A",
+    "symptoms": "No visible disease symptoms detected. Leaves are vibrant green and spotless.",
+    "treatment": [
+      "No treatment needed"
+    ],
+    "prevention": "Continue regular watering, proper fertilization, and consistent monitoring."
+  },
+  "Tomato___Target_Spot": {
+    "displayName": "Target Spot",
+    "cause": "Fungus: Corynespora cassiicola",
+    "symptoms": "Small, circular brown lesions with concentric rings resembling a target on leaves and stems.",
+    "treatment": [
+      "Apply fungicides containing chlorothalonil, mancozeb, or copper products",
+      "Prune lower branches to keep foliage off the ground"
+    ],
+    "prevention": "Avoid overhead irrigation, rotate crops with non-host species, and maximize air circulation."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "displayName": "Two-Spotted Spider Mites",
+    "cause": "Pest: Tetranychus urticae",
+    "symptoms": "Fine white/yellow stippling (tiny dots) on leaves, progressing to yellowing and fine silky webbing on leaf undersides.",
+    "treatment": [
+      "Spray infested plants with insecticidal soap, neem oil, or horticultural oils",
+      "Introduce natural predators like predatory mites (Phytoseiidae)"
+    ],
+    "prevention": "Keep plants well-watered to prevent drought stress, which favors mites; periodically blast leaves with water to dislodge them."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "displayName": "Tomato Mosaic Virus",
+    "cause": "Virus: Tomato mosaic virus (ToMV)",
+    "symptoms": "Mottling of light and dark green patches on leaves, leaf distortion, upward curling, or blistering.",
+    "treatment": [
+      "No chemical treatment available; immediately pull and burn/destroy infected plants",
+      "Do not compost infected plant debris"
+    ],
+    "prevention": "Purchase certified disease-free seeds, sanitize gardening tools frequently, and wash hands with soap before handling plants (especially if using tobacco products)."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "displayName": "Septoria Leaf Spot",
+    "cause": "Fungus: Septoria lycopersici",
+    "symptoms": "Numerous small, circular spots with dark brown margins and tan-to-gray centers containing tiny black specks.",
+    "treatment": [
+      "Remove affected lower leaves immediately to stop upward spread",
+      "Apply copper-based or chlorothalonil fungicides at the first sign of infection"
+    ],
+    "prevention": "Always water at the base of the plant, eliminate nightshade weeds, and practice strict 3-year crop rotation."
+  },
+  "Tomato___Leaf_Mold": {
+    "displayName": "Leaf Mold",
+    "cause": "Fungus: Passalora fulva",
+    "symptoms": "Pale green or yellow spots on upper leaf surfaces, with olive-green to grayish-purple velvety mold patches on corresponding undersides.",
+    "treatment": [
+      "Apply calcium chloride-based or copper fungicides thoroughly, focusing on leaf undersides",
+      "Aggressively prune lower leaves to reduce relative humidity beneath the canopy"
+    ],
+    "prevention": "Keep greenhouse humidity below 85%, space plants wide apart, and use resistant varieties if growing indoors."
+  },
+  "Tomato___Early_blight": {
+    "displayName": "Early Blight",
+    "cause": "Fungus: Alternaria solani",
+    "symptoms": "Dark, concentric-ring 'target' spots on older leaves, leading to yellowing and premature leaf drop.",
+    "treatment": [
+      "Remove and destroy infected leaves immediately",
+      "Apply a copper-based, mancozeb, or chlorothalonil fungicide"
+    ],
+    "prevention": "Rotate crops yearly, use resistant varieties, and apply a thick layer of mulch to prevent soil splashing onto low leaves."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "displayName": "Tomato Yellow Leaf Curl",
+    "cause": "Virus: Tomato yellow leaf curl virus (TYLCV) transmitted by Whiteflies",
+    "symptoms": "Severe stunting of the plant, with leaves curling dramatically upward and inward, accompanied by distinct yellowing margins.",
+    "treatment": [
+      "No cure for the virus; infected plants must be bagged and discarded immediately to avoid vector spread",
+      "Treat remaining plants with systemic insecticides or neem oil to control the insect vectors"
+    ],
+    "prevention": "Control the whitefly population using yellow sticky traps and insecticidal row covers when plants are young."
+  },
+  "Tomato___Late_blight": {
+    "displayName": "Late Blight",
+    "cause": "Oomycete: Phytophthora infestans",
+    "symptoms": "Large, irregular water-soaked dark brown or black lesions on leaves and stems; a white, fuzzy fungal growth appears under wet conditions.",
+    "treatment": [
+      "Instantly destroy the entire infected plant; this disease spreads exceptionally fast via wind",
+      "Apply preventative fungicides containing copper, mancozeb, or chlorothalonil to surrounding healthy plants"
+    ],
+    "prevention": "Avoid overhead watering altogether, monitor weather for cool/wet stretches, and plant in locations with maximal all-day sunlight."
+  },
+  "Tomato___Bacterial_spot": {
+    "displayName": "Bacterial Spot",
+    "cause": "Bacteria: Xanthomonas species",
+    "symptoms": "Small, dark, water-soaked circular spots on leaves that eventually turn necrotic and crack, often surrounded by a faint yellow halo.",
+    "treatment": [
+      "Apply a mixture of copper fungicide and mancozeb weekly during wet spells",
+      "Prune and remove infected debris during dry weather only"
+    ],
+    "prevention": "Only use certified pathogen-free seeds, avoid working among wet foliage, and eliminate volunteer tomato crops from previous seasons."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Potato___Early_blight": {
+    "displayName": "Early Blight",
+    "cause": "Fungus: Alternaria solani",
+    "symptoms": "Dark, dark brown to black circular spots with characteristic concentric 'target' rings on older lower leaves, causing eventual yellowing and leaf drop.",
+    "treatment": [
+      "Prune and destroy heavily infected lower leaves immediately to slow the upward migration of spores",
+      "Apply preventative or therapeutic fungicides containing chlorothalonil, mancozeb, or copper compounds"
+    ],
+    "prevention": "Implement a strict 2-to-3-year crop rotation omitting other nightshades, maximize plant spacing, and mulch well to prevent soil splashing."
+  },
+  "Potato___healthy": {
+    "displayName": "Healthy",
+    "cause": "N/A",
+    "symptoms": "Stems are upright and strong; foliage is evenly green and free from necrotic lesions, spotting, or premature wilting.",
+    "treatment": [
+      "No treatment needed"
+    ],
+    "prevention": "Ensure consistent soil moisture without waterlogging, provide adequate hilling, and monitor fields weekly."
+  },
+  "Potato___Late_blight": {
+    "displayName": "Late Blight",
+    "cause": "Oomycete: Phytophthora infestans",
+    "symptoms": "Large, irregular water-soaked dark lesions on leaves and stems that quickly rot; a white, velvety fungal growth appears on the undersides of leaves during cool, humid weather.",
+    "treatment": [
+      "Quickly pull and destroy entire infected plants to prevent rapid airborne field devastation",
+      "Apply specialized protectant fungicides such as mancozeb, chlorothalonil, or systemic oomycete treatments to surrounding healthy rows"
+    ],
+    "prevention": "Plant only certified disease-free seed tubers, avoid overhead watering to minimize leaf wetness periods, and destroy any volunteer potato plants or cull piles."
+  }
+}

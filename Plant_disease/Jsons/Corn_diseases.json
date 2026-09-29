@@ -1,0 +1,41 @@
+{
+  "Corn_(maize)___Common_rust_": {
+    "displayName": "Common Rust",
+    "cause": "Fungus: Puccinia sorghi",
+    "symptoms": "Golden-brown to cinnamon-brown powdery pustules (uredinia) that break through the leaf surface, appearing on both upper and lower sides of the leaves.",
+    "treatment": [
+      "Apply foliar fungicides containing strobilurins or triazoles if rust pustules appear early in the season and threaten the upper canopy",
+      "No direct treatment needed if infection occurs close to crop maturity"
+    ],
+    "prevention": "Plant rust-resistant hybrids and manage residue by tilling or rotating crops to disrupt local spore accumulation."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "displayName": "Northern Leaf Blight",
+    "cause": "Fungus: Exserohilum turcicum",
+    "symptoms": "Long, elliptical, grayish-green or tan lesions that progress to resemble a cigar shape, typically appearing first on lower leaves.",
+    "treatment": [
+      "Apply protective or curative foliar fungicides early from the whorl stage to silking if lesions appear before tasseling",
+      "Shred and bury crop residue post-harvest to speed up microbial breakdown of fungal structures"
+    ],
+    "prevention": "Utilize highly resistant hybrid choices and stick to a minimum 1-year crop rotation out of corn."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "displayName": "Gray Leaf Spot",
+    "cause": "Fungus: Cercospora zeae-maydis",
+    "symptoms": "Distinctly rectangular, tan-to-gray lesions restricted by parallel leaf veins, initially presenting as small spots with yellow halos.",
+    "treatment": [
+      "Apply active triazole or strobilurin-based fungicides if weather forecasts project continuous high humidity and lesions reach the ear leaf",
+      "Incorporate deep fall tillage to submerge and destroy overwintering fungus layers in the soil"
+    ],
+    "prevention": "Practice a strict 2-year crop rotation sequence with non-host crops like soybeans or alfalfa to break the fungus life cycle."
+  },
+  "Corn_(maize)___healthy": {
+    "displayName": "Healthy Corn",
+    "cause": "N/A",
+    "symptoms": "Leaves are completely green, erect, and broad without any brown lesions, spotting, or rust pustules. Stalks are robust and firm.",
+    "treatment": [
+      "No treatment needed"
+    ],
+    "prevention": "Ensure optimal nitrogen fertilization, uniform plant population spacing, and standard seasonal weed suppression."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Cherry_(including_sour)___healthy": {
+    "displayName": "Healthy Cherry",
+    "cause": "N/A",
+    "symptoms": "Foliage is dark green, firm, and glossy. Cherries develop a uniform rich color without any sunken lesions, fuzz, or powdery coatings.",
+    "treatment": [
+      "No treatment needed"
+    ],
+    "prevention": "Prune during the winter to maintain canopy structure, apply appropriate seasonal mulch, and follow a regular watering schedule."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "displayName": "Powdery Mildew",
+    "cause": "Fungus: Podosphaera clandestina",
+    "symptoms": "A distinct white-to-light-gray powdery fungal coating patches across leaf surfaces, causing young leaves to distort, nest, or curl upward along the margins.",
+    "treatment": [
+      "Apply potassium bicarbonate, horticultural oils, or sulfur-based fungicides at the first sign of visible patches",
+      "Prune and discard highly clustered or lower shaded suckers to reduce microclimate humidity"
+    ],
+    "prevention": "Ensure wide plant spacing for maximal sunlight penetration and avoid nitrogen-heavy late spring fertilization which creates overly susceptible, tender leaf flushes."
+  }
+}

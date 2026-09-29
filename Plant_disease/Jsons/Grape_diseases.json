@@ -1,0 +1,41 @@
+{
+  "Grape___Esca_(Black_Measles)": {
+    "displayName": "Esca (Black Measles)",
+    "cause": "Fungi complex: Phaeomoniella chlamydospora, Phaeoacremonium aleophilum, and Fomitiporia mediterranea",
+    "symptoms": "Leaves display a striking 'tiger-stripe' pattern of chlorosis and necrosis. Berries develop small, dark, sunken spots scattered across the skin, giving them a 'measles' appearance.",
+    "treatment": [
+      "No effective chemical cure exists; surgically remove and burn heavily infected cordons or vines",
+      "Apply wound-protectant paste or a biocontrol agent like Trichoderma to pruning cuts immediately to block new fungal entry"
+    ],
+    "prevention": "Prune vines during dry weather to limit spore transmission, and implement strict vineyard sanitation practices."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "displayName": "Leaf Blight (Isariopsis Leaf Spot)",
+    "cause": "Fungus: Pseudocercospora vitis (formerly Isariopsis clavispora)",
+    "symptoms": "Dull brown, irregular spots appear on older leaves in late summer, expanding rapidly until the tissue dries up, curls, and causes premature defoliation.",
+    "treatment": [
+      "Apply protective fungicides containing copper or mancozeb post-harvest to prevent late-season leaf drop",
+      "Rake, chop, and deeply bury or burn fallen leaves in the autumn to destroy overwintering structures"
+    ],
+    "prevention": "Improve the canopy structure using training and trellis systems that optimize airflow and maximize sunlight exposure."
+  },
+  "Grape___Black_rot": {
+    "displayName": "Black Rot",
+    "cause": "Fungus: Guignardia bidwellii",
+    "symptoms": "Small, round cream-colored spots with dark brown borders on leaves. Berries rapidly turn into hard, shriveled, wrinkled black 'mummies' covered in tiny fruiting bodies.",
+    "treatment": [
+      "Manually remove and destroy all mummified fruit clusters remaining on the vines or the vineyard floor",
+      "Apply systemic fungicides containing myclobutanil or azoxystrobin from early bloom until early summer"
+    ],
+    "prevention": "Maintain a strict weed-free zone directly beneath the vine canopy to dramatically lower ambient relative humidity."
+  },
+  "Grape___healthy": {
+    "displayName": "Healthy",
+    "cause": "N/A",
+    "symptoms": "Leaves are uniform green without patches or blemishes. Fruit clusters grow evenly, displaying firm skins and plump berries.",
+    "treatment": [
+      "No treatment needed"
+    ],
+    "prevention": "Ensure routine seasonal pruning, uniform drip irrigation, and balanced nitrogen management."
+  }
+}
